@@ -2,9 +2,13 @@
 .env
 
 # ipynb checkpoints
-./ipynb_checkpoints
+.ipynb_checkpoints/
 
 # video
-./video
+.video/
+
+.idea/
+
+__pycache__/
 
 

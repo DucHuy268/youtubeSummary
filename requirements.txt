@@ -1,0 +1,13 @@
+pytube
+pydub
+SpeechRecognition
+# conda create -n newenv -c conda-forge ffmpeg
+ffmpeg-python
+assemblyai
+clipboard
+python-dotenv
+selenium
+selenium-stealth
+
+#UI
+streamlit

@@ -1,0 +1,10 @@
+# env
+.env
+
+# ipynb checkpoints
+./ipynb_checkpoints
+
+# video
+./video
+
+
